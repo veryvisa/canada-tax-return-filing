@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veryvisa.github.io/canada-tax-return-filing/sitemap.xml
